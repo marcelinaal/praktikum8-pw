@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+}
+
+header, article, aside, nav, footer {
+    padding: 40px;
+}
+
+.content {
+    display: flex;
+    height: 75vh;
+}
+
+header {
+    background-color: yellow;
+}
+
+article {
+    background-color: blueviolet;
+    width: 50%;
+}
+
+aside {
+    background-color: blue;
+    width: 25%;
+}
+
+nav {
+    background-color: aqua;
+    width: 25%;
+}
+footer {
+    background-color: yellow;
+}

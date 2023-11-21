@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(202, 89, 149);
+}
+
+nav {
+    display:flex;
+    background-color: rgb(125, 125, 138);
+    padding: 20px; 
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    margin-right: 20px;
+    list-style-type: none;
+}
